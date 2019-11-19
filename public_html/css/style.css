@@ -1,0 +1,17 @@
+.my-images {
+	width: 100%;
+	padding: 2em;
+}
+
+.my-border {
+	border-radius: 5em;
+	border: 1em solid #F26229;
+}
+
+.my-background {
+	background: url(../images/marty-on-mt-taylor.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
